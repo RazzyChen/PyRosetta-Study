@@ -4,7 +4,7 @@ Hey！Nice to meet you ~
 
 My name is Chen Harusaki. I'm a biotechnology sophomore student in Beijing Polytechnic in China.
 
-This project is my note for studying PyRosetta and exercising English to write somthing. If my grammar or spelling has any mistake, tell me how to fix my mistake.
+This project is my note for studying PyRosetta and exercising English to write something. If my grammar or spelling has any mistake, tell me how to fix my mistake.
 Thank you ~
 ## PyRosetta Introduction
 PyRosetta is an interactive Python-based interface to the powerful Rosetta molecular modeling suite. It enables users to design their own custom molecular modeling algorithms using Rosetta sampling methods and energy functions.
